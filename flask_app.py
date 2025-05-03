@@ -6,4 +6,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello from cweichsel!'
+    return 'Hello from cweichsel 2!'
